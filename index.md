@@ -1,6 +1,6 @@
-# `<h1>` Learning Markdown
-## `h2` Correcting mistakes
-Created a repository, created a pull request and changed the file index.md
+# Learning Markdown
+## Correcting mistakes
+###### Created a repository, created a pull request and changed the file index.md
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ```
